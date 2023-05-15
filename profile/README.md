@@ -1,3 +1,3 @@
-## Hi there 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sqlare)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display:flex;">
+<h1>Hi there 👋</h1>
+</div>
