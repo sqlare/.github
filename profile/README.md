@@ -1,2 +1,3 @@
-# 유저들을 편하게_
-## Team.Sqlare 는 유저(사용자)들이 평소보다 조금이라도 더 편하게 생활하고 즐길 수 있도록 하기위해 만들어진 팀 입니다.
+# Sqlare, the Organization™
+
+Sqlare can everything.
